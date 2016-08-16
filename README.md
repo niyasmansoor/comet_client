@@ -18,7 +18,7 @@
   
     websocket4j – Its an open sourced GNU licensed API [ https://launchpad.net/websocket4j ]
     
-websocket_client_master.zip
+comet_client_master.zip
 
 	This contains the code necessary to implement a websocket4j client. It contains the client program  WebSocketMessageClient.java  and the websocket4j jar file required to run the client. 
 
